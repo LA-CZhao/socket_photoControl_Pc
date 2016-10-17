@@ -1,0 +1,10 @@
+JAVA_HOME
+
+D:\jdk\jdk1.8
+
+
+Path
+%ANDROID_HOME%;%JAVA_HOME%\bin;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\
+
+CLASSPATH
+ .;%JAVA_HOME%\lib\tools.jar;%JAVA_HOME%\lib\dt.jar;
