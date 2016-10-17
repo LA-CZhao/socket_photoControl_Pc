@@ -1,0 +1,2 @@
+# socket_photoControl_Pc
+手机与pc端通过socket通讯的Demo,我设置的有批处理命令，文件解压后一定要重新配置ip.
